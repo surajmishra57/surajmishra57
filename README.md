@@ -1,5 +1,5 @@
 ## Hi I' am Suraj👋
-[Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/surajmishra57/count.svg)
 <!--
 **surajmishra57/surajmishra57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
