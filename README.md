@@ -1,5 +1,12 @@
 ## Hi I' am Suraj👋
 
+👋 Hi there! I'm Suraj, a Java Developer with 3+ years of hands-on experience building scalable and efficient applications. I'm passionate about clean code, backend development, and solving complex problems using Java.
+
+💻 I enjoy working with Java 21+, Spring Boot, Kafka, REST APIs, and modern backend tech. Problem-solving is my superpower, and I love tackling algorithmic challenges in my spare time.
+
+🚀 Constantly learning, improving, and contributing to clean, maintainable codebases.
+
+📫 Let’s connect and build something awesome!
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/surajmishra57/count.svg)
 **surajmishra57/surajmishra57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
