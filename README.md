@@ -1,4 +1,5 @@
-## Hi there! I'm Suraj👋 Welcome to my github page
+## Hi there! I'm Suraj👋 
+## Welcome to my github page
 
 👋 Hi there! I'm Suraj, a Java Developer with 3+ years of hands-on experience building scalable and efficient applications. I'm passionate about clean code, backend development, and solving complex problems using Java.
 
