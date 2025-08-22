@@ -3,7 +3,7 @@
 
 👋 Hi there! I'm Suraj, a Java Developer with 3+ years of hands-on experience building scalable and efficient applications. I'm passionate about clean code, backend development, and solving complex problems using Java.
 
-💻 I enjoy working with Java 17, Spring Boot, Kafka, REST APIs, and modern backend tech. Problem-solving is my superpower, and I love tackling algorithmic challenges in my spare time.
+💻 I enjoy working with Java 21, Spring Boot, Kafka, REST APIs, and modern backend tech. Problem-solving is my superpower, and I love tackling algorithmic challenges in my spare time.
 
 🚀 Constantly learning, improving, and contributing to clean, maintainable codebases.
 
